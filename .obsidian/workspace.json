@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_模板/项目立项checklist.md",
+                "file": "D3系列原理图评审.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目立项checklist"
+              "title": "D3系列原理图评审"
             }
           }
         ],
@@ -249,9 +249,10 @@
   },
   "active": "2fef122302856d90",
   "lastOpenFiles": [
-    "GIT使用说明.md",
+    "db322bf42dee0bd38188b90cf4a47b9d.png",
     "f0c234f9ee1f1d2d6fefa72bf8a2dca5.png",
     "00_模板/项目立项checklist.md",
+    "GIT使用说明.md",
     "git测试文件夹",
     "00_模板/项目管理过程.md",
     "00_模板/日报模板.md",
@@ -275,7 +276,6 @@
     "Aliro 智能门禁认证 1.pdf",
     "Aliro 智能门禁认证.pdf",
     "58a76a82b590c6d08d0cf48825c0e5a4.png",
-    "db322bf42dee0bd38188b90cf4a47b9d.png",
     "Untitled Kanban.md",
     "Pasted image 20260521145213.png",
     "Pasted image 20260521145153.png",
