@@ -39,14 +39,15 @@
             "id": "2fef122302856d90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "D3系列原理图评审.md",
-                "mode": "source",
-                "source": false
+                "aFile": "ObsidianWorkNotes/.obsidian/workspace.json",
+                "bFile": "ObsidianWorkNotes/.obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "D3系列原理图评审"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ],
@@ -249,6 +250,15 @@
   },
   "active": "2fef122302856d90",
   "lastOpenFiles": [
+    "验证文件夹",
+    "git测试文件夹/git测试.md",
+    "未命名",
+    "Pasted image 20260527145512.png",
+    "499b1863e2c912fa7b75f0b810fe18c0.png",
+    "git测试文件夹/未命名",
+    "58a76a82b590c6d08d0cf48825c0e5a4.png",
+    "D3系列原理图评审.md",
+    "git测试文件夹",
     "db322bf42dee0bd38188b90cf4a47b9d.png",
     "f0c234f9ee1f1d2d6fefa72bf8a2dca5.png",
     "00_模板/项目立项checklist.md",
@@ -271,18 +281,14 @@
     "Clippings/⁡﻿‌⁢​⁤‬⁣⁡‌⁡⁤⁣‍​​﻿‌‌﻿⁡‌​⁤⁡⁣﻿‌​⁤⁤​‬⁡⁢​​⁢​⁤​​﻿​​​⁤​⁢D2L系列Matter锁导入THome技术方案 - 飞书云文档.md",
     "01_项目/02_K1Plus/K1Plus项目看板.md",
     "01_项目/02_K1Plus/K1Plus 蓝牙问题梳理.md",
-    "D3系列原理图评审.md",
     "01_项目/00_D3系列/D3技术方案.md",
     "Aliro 智能门禁认证 1.pdf",
     "Aliro 智能门禁认证.pdf",
-    "58a76a82b590c6d08d0cf48825c0e5a4.png",
     "Untitled Kanban.md",
     "Pasted image 20260521145213.png",
     "Pasted image 20260521145153.png",
     "Pasted image 20260521145141.png",
     "499b1863e2c912fa7b75f0b810fe18c0 1.png",
-    "499b1863e2c912fa7b75f0b810fe18c0.png",
-    "Pasted image 20260521144814.png",
     "未命名.base",
     "未命名 1.canvas",
     "2026-05-21.md",
@@ -290,12 +296,8 @@
     "未命名.canvas",
     "copilot/copilot-conversations/会议纪要模板生成@20260521_113732.md",
     "copilot/copilot-conversations/链路测试通过@20260518_083824.md",
-    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
     "未命名 2.canvas"
   ]
 }
