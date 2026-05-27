@@ -247,11 +247,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "notebook-navigator:笔记本导航器": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87d796995cf4212c",
+  "active": "997afc7b1f4ac6da",
   "lastOpenFiles": [
+    "git测试文件夹",
     "00_模板/项目管理过程.md",
     "00_模板/日报模板.md",
     "00_模板/7258资料模板.md",
@@ -295,7 +297,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名 2.canvas",
